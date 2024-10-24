@@ -8,3 +8,6 @@ We study the effect of the dimensionality of the latent space of variational aut
 ### TL;DR
 
 We prove that as the dimensionality of the latent space of the VAE gets infinitely large, the VAE's input reconstruction and data generation abilities.
+
+Note: There's a small bug in the definition used for the continuous AEP, will fix once I get a chance, but the main argument still holds.
+
